@@ -1,0 +1,1 @@
+A simple stock tracking app made in streamlit, it tracks the price of google stocks and displays it
